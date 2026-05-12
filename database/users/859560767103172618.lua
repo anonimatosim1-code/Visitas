@@ -7,7 +7,7 @@ _G.PLAYLISTS = {"Todas", "Aleatórias", "NSFW", "Memes", "Players"}
 -- ⬇⬇⬇ SLOTS (BOT EDITA AQUI) ⬇⬇⬇
 local ARTS = {
     {
-        name = "Safadaa",
+        name = "Safada",
         playlist = "Aleatórias",
         map = [[
 Pixel 1 (0,0) = FFFFFF | Pixel 2 (1,0) = FFFFFF | Pixel 3 (2,0) = FFFFFF | Pixel 4 (3,0) = FFFFFF | Pixel 5 (4,0) = FFFFFF | Pixel 6 (5,0) = FFFFFF | Pixel 7 (6,0) = FFFFFF | Pixel 8 (7,0) = FFFFFF | Pixel 9 (8,0) = FFFFFF | Pixel 10 (9,0) = FFFFFF | Pixel 11 (10,0) = FFFFFF | Pixel 12 (11,0) = FFFFFF | Pixel 13 (12,0) = FFFFFF | Pixel 14 (13,0) = FFFFFF | Pixel 15 (14,0) = FFFFFF | Pixel 16 (15,0) = FFFFFF | Pixel 17 (16,0) = FFFFFF | Pixel 18 (17,0) = FFFFFF | Pixel 19 (18,0) = FFFFFF | Pixel 20 (19,0) = FFFFFF | Pixel 21 (20,0) = FFFFFF | Pixel 22 (21,0) = FFFFFF | Pixel 23 (22,0) = FFFFFF | Pixel 24 (23,0) = FFFFFF | Pixel 25 (24,0) = FFFFFF | Pixel 26 (25,0) = FFFFFF | Pixel 27 (26,0) = FFFFFF | Pixel 28 (27,0) = FFFFFF | Pixel 29 (28,0) = FFFFFF | Pixel 30 (29,0) = FFFFFF | Pixel 31 (30,0) = FFFFFF | Pixel 32 (31,0) = FFFFFF
