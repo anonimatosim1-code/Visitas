@@ -2,7 +2,7 @@
 -- CONFIGURAÇÕES DO BOT (EDITAR AQUI)
 -- ==========================================================
 
-_G.PLAYLISTS = {"Todas", "Aleatórias", "NSFW", "Memes", "Players"}
+_G.PLAYLISTS = {"Todas", "Aleato", "NSFW", "Memes", "Players"}
 
 -- ⬇⬇⬇ SLOTS (BOT EDITA AQUI) ⬇⬇⬇
 _G.ARTS {
