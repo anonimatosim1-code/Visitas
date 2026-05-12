@@ -5,7 +5,7 @@
 _G.PLAYLISTS = {"Todas", "Aleatórias", "NSFW", "Memes", "Players"}
 
 -- ⬇⬇⬇ SLOTS (BOT EDITA AQUI) ⬇⬇⬇
-local _G.ARTS = {
+_G.ARTS = {
     {
         name = "Safada",
         playlist = "Aleatórias",
